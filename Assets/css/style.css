@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* sets background color */
+body {
+    background-color: #d9dcd6;
+    font-size: 16px;
+}
+
+/* heading (h1) for Horiseon */
+h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* the heading (h2) of each 'main bars' section */
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* the heading (h3) of each 'benefits' section */
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* heading (h4) for the footer */
+h4 {
+    font-size: 20px;
+}
+
+/* header bar */
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* alters the color of 'seo' in 'Horiseon' */
+.seo {
+    color: #d9dcd6;
+}
+
+/* the 'header' menu */
+menu {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* each 'header' menu item */
+li {
+    display: inline-block;
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+/* the appearance of the options in the header */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* the main image */
+.main-image {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* The image is on the left side; the text is on the right side */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* The image is on the right side; the text is on the left side */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* the 'main bars' sections */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* each section of the main bars */
+.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* the image (img) of each 'main bars' section */
+main-bars section img {
+    max-height: 200px;
+}
+
+/* the 'benefits' side bar */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* each section of the benefits */
+.benefit-lead, .benefit-brand, .benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* the image (img) of each 'benefits' section */
+side-bar section img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* the footer */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
