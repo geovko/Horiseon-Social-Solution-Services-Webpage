@@ -10,13 +10,16 @@ Enter the URL provided below into your favorite web browser to open the website.
 
 https://geovko.github.io/Horiseon-Social-Solution-Services-Webpage/
 
-    ![Horiseon Website, screenshot one of three](Assets/images/Screenshot%201.a.png)
-    ![Horiseon Website, screenshot two of three](Assets/images/Screenshot%201.b.png)
-    ![Horiseon Website, screenshot three of three](Assets/images/Screenshot%201.c.png)
+    ![Horiseon Website, screenshot one of three](https://github.com/geovko/Horiseon-Social-Solution-Services-Webpage/tree/main/Assets/images/Screenshot%201.a.png)
+
+    ![Horiseon Website, screenshot two of three](https://github.com/geovko/Horiseon-Social-Solution-Services-Webpage/tree/main/Assets/images/Screenshot%201.b.png)
+
+    ![Horiseon Website, screenshot three of three](https://github.com/geovko/Horiseon-Social-Solution-Services-Webpage/tree/main/Assets/images/Screenshot%201.c.png)
+
 
 ## Credits
 
-Tutorials provided by the UCI Bootcamp teaching staff
+This project wouldn't have been completed without the aid of tutorials provided by the UCI Bootcamp teaching staff as well as the initial starting code from the 'urban-octo-telegram' repository provided by Georgeyoo.
 
 ## License
 
