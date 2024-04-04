@@ -10,10 +10,9 @@ Enter the URL provided below into your favorite web browser to open the website.
 
 https://geovko.github.io/Horiseon-Social-Solution-Services-Webpage/
 
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    ![Horiseon Website, screenshot one of three](Assets/images/screenshot 1.a.png)
+    ![Horiseon Website, screenshot two of three](Assets/images/screenshot 1.b.png)
+    ![Horiseon Website, screenshot three of three](Assets/images/screenshot 1.c.png)
 
 ## Credits
 
