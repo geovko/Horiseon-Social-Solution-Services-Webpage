@@ -15,7 +15,7 @@ https://geovko.github.io/Horiseon-Social-Solution-Services-Webpage/
 https://geovko.github.io/Horiseon-Social-Solution-Services-Webpage/
   ```
 
-At the top of the page, to the right of the brand name, Horiseon, three concepts are listed. By clicking one of these concepts you will be pulled to a different section of the webpage where a deeper explanation of that concept is provided. To the right is a list of benefits that these concepts provide and a description of ecah one. 
+At the top of the webpage, to the right of the brand name, Horiseon, three concepts are listed. By clicking one of these concepts you will be pulled to a different section of the webpage where a deeper explanation of that concept is provided. To the right is a list of benefits that these concepts provide and a description of each one. 
 
 ![Horiseon Website, screenshot one of three](Assets/images/Screenshot%201.a.png)
 
