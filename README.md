@@ -7,6 +7,11 @@ This webpage is designed to present the information that Horiseon Social Solutio
 ## Usage
 
 Enter the URL provided below into your favorite web browser to open the website. 
+
+Click this link here to go directly!
+https://geovko.github.io/Horiseon-Social-Solution-Services-Webpage/
+
+OR Copy this link to paste it into a browser.
   ```md
 https://geovko.github.io/Horiseon-Social-Solution-Services-Webpage/
   ```
