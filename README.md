@@ -8,7 +8,7 @@ This webpage is designed to present the information that Horiseon Social Solutio
 
 To open the refactored website, click this link here to go directly!
 
-https://geovko.github.io/Horiseon-Social-Solution-Services-Webpage/
+[Refactored Horiseon Webpage](https://geovko.github.io/Horiseon-Social-Solution-Services-Webpage/)
 
 *OR* Copy this link to paste it into a browser.
   ```md
